@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cabeceraPrincipal{
+    background-color: white;
+   
+}
+
+h1{
+   
+    font-size: 22px;
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+
+.cabeceraPrincipal{
+    margin: 0 auto;
+    width: 100%;
+}
+.paraCentrar h3,
+.paraCentrar h2{
+padding: 12px 12px;
+}
+.paraCentrar{
+    margin-top: 30px;
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    
+
+}
+    h4{
+        color: rgb(200, 200, 200);
+    }
+    .encabezado{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+       
+    }
+    .engloba{
+        display: block;
+      
+    }
+
+
